@@ -1,5 +1,4 @@
 PRODIGY INFOTECH INTERNSHIP-DATASCIENCE:
 
-TASK-1 OVERVIEW:
-create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
-
+TASK-4 OVERVIEW:
+Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
